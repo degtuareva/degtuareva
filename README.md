@@ -1,8 +1,9 @@
 # degtuareva
 
-|Language|Stats|Commits|
-|--|--|--|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [![degtuareva's GitHub stats](https://github-readme-stats.vercel.app/api?username=degtuareva&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![Commits](https://github-readme-stats.vercel.app/api/pin/?username=degtuareva&repo=portfolio) |
+|Language|Stats|
+|--|--|
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [![degtuareva's GitHub stats](https://github-readme-stats.vercel.app/api?username=degtuareva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+
 
 ### Programming languages:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
