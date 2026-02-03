@@ -1,36 +1,50 @@
-# degtuareva
+<div align="center">
 
-|Language|Stats|
-|--|--|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | [![degtuareva's GitHub stats](https://github-readme-stats.vercel.app/api?username=degtuareva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+# 👋 Привет! Я Ольга Дегтярёва, Fullstack Developer
 
+---
+[![degtuareva's GitHub stats](https://github-readme-stats.vercel.app/api?username=degtuareva&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/degtuareva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degtuareva&layout=compact&theme=radical&hide_border=true)](https://github.com/degtuareva)
 
-### Programming languages:
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+---
 
-### Frontend frameworks:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+**💻 Мои навыки:**
 
-### AI/ML:
-![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-10A37F?style=flat&logo=openai&logoColor=white)
+### 🖥️ Языки программирования
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend frameworks:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Version control systems:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+### 🤖 AI/ML
+![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### Database:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+### 🔧 Backend & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Containerization:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+---
 
-### Integrated Development Environments:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+**🔥 Мои проекты:**
 
-### Testing tools:
-![JUnit](https://img.shields.io/badge/JUnit-4B89A6?style=flat&logo=junit5&logoColor=white)
+| **User Service** | **Message Service** | **GAME** |
+|---|---|---|
+| [GitHub](https://github.com/degtuareva/user-service) | [GitHub](https://github.com/degtuareva/message-service) | [Демо](https://degtuareva.github.io/GAME/) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+| **Telegram Bot** | **GPT Tutor** | **Pizza Constructor** |
+|---|---|---|
+| [GitHub](https://github.com/degtuareva/java-bot-homework-1) | [GitHub](https://github.com/degtuareva/java-ai-tutor) | [GitHub](https://github.com/degtuareva/pizza) |
+| GPT-4o-mini + Java | Java + React + GPT | Интерактивный JS |
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/degtuareva?label=Followers&style=social)](https://github.com/degtuareva)
+[![Profile views](https://komarev.com/ghpvc/?username=degtuareva&style=flat-square)](https://github.com/degtuareva)
+
+</div>
+
+🌟 **Обо мне:** Fullstack разработчик (Java/Spring Boot + React + JavaScript). Интегрирую GPT-4o-mini в Telegram боты и веб-приложения.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Dev;React+%2B+Java;GPT-4o-mini;Telegram+Bots&font=Fira%20Code&pause=1000)]()
