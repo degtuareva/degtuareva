@@ -2,10 +2,8 @@
 
 # 👋 Привет! Я Ольга Дегтярева, Fullstack Developer
 
----
-[![degtuareva's GitHub stats](https://github-readme-stats.vercel.app/api?username=degtuareva&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/degtuareva)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degtuareva&layout=compact&theme=radical&hide_border=true)](https://github.com/degtuareva)
-
+![GitHub Stats](https://img.shields.io/badge/Stars-0-lightgrey?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-50%2B-blue?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 **💻 Мои навыки:**
