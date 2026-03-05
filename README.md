@@ -31,7 +31,6 @@
 | [GitHub](https://github.com/degtuareva/user-service) | [GitHub](https://github.com/degtuareva/message-service) | [Демо](https://degtuareva.github.io/GAME/) |[GitHub](https://github.com/degtuareva/creditCalculator.git)|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | 
 
 | **Telegram Bot** | **GPT Tutor** | **Pizza Constructor** |
